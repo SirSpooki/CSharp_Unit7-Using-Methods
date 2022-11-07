@@ -1,3 +1,4 @@
+// Uses DisplayWebAddress method three times
 using static System.Console;
 class DebugSeven1
 {
