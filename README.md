@@ -46,7 +46,7 @@ In Chapter 6, you continued to modify the GreenvilleRevenue program. Now, modify
 - A method that fills the array of competitors and their talent codes
 
 - A method that continuously prompts for talent codes and displays contestants with the corresponding talent until a sentinel value is entered
---
+---
 In previous chapters, you continued to modify the MarshallsRevenue program. Now, modify the program so that the major functions appear in the following individual methods:
 
 - A method that prompts for and returns the month
